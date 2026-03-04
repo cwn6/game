@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void test_function() {
+void test_fun01() {
     // Your test code here
-    printf("This is a test function.\n");
+    printf("test fun01\n");
 }
